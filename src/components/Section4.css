@@ -1,0 +1,42 @@
+
+@media(min-width:320px){
+    .test{
+        width: 100%;
+        margin: 0 auto;
+        border: 2px solid black;
+        border-radius: 2%;
+    }
+    .fo{
+        font-size: 60px;
+    }
+    .re{
+     width: 75%;
+     background-color: aqua;
+    }
+    .btn01{
+        margin-left: 70px;
+    }
+}
+@media(min-width:768px){
+   
+    .test{
+        width:80%;
+    }
+    .re{
+        width: 50%;
+    }
+    .btn01{
+        margin-left: 300px;
+    }
+}
+
+@media(min-width:992px){
+    .test{
+        width:50%;
+    }
+    .btn01{
+        margin-left: 600px;
+    }
+    
+
+}

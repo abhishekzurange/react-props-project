@@ -1,0 +1,22 @@
+
+@media(min-width:320px){
+   .ft{
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 77%;
+}
+   .ft1{
+    padding-top: 30px;
+    margin-left: 30px;
+   }
+.br{
+    border-bottom: 1px solid white;
+}
+ }
+ @media(min-width:768px){
+    
+ }
+ 
+ @media(min-width:992px){
+   
+ }

@@ -1,0 +1,24 @@
+@media(min-width:320px){
+.btn2{
+    margin-left: 100px;
+}
+}
+@media(min-width:768px){
+    .btn2{
+        margin-top: 30px;
+        margin-left: 350px;
+    }
+    .p1{
+        width: 80%;
+        margin: 0 auto;
+    }
+
+}
+@media(min-width:992px){
+   .btn2{
+    margin-left: 600px;
+   }
+   .game {
+    width: 50%;
+   }
+}

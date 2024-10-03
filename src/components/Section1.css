@@ -1,0 +1,19 @@
+@media(min-width:320px){
+
+}
+@media(min-width:768px){
+    .p{
+        margin-left: 100px;
+        text-align: center;
+        width: 70%;
+    }
+.btn1{
+   margin-left:350px ;
+}
+}
+@media(min-width:992px){
+.about{
+    margin-top: 60px;
+}
+
+}
